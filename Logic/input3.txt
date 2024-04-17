@@ -1,0 +1,6 @@
+-P
+4
+-A OR B
+-B OR P OR A
+-P OR B
+-B
